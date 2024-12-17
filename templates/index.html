@@ -3,29 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Football Project</title>
+    <title>Football Matches</title>
     <link rel="stylesheet" href="/static/css/styles.css">
     <script src="/static/js/scripts.js" defer></script>
 </head>
 <body>
     <div class="container">
         <aside class="sidebar">
-            <h2>Leagues by Country</h2>
-            <ul id="countries"></ul>
+            <h3>Kalendarz</h3>
+            <ul id="dates"></ul>
         </aside>
         <main>
-            <h2>Matches</h2>
-            <table id="matches">
+            <h2>Lista Meczów</h2>
+            <table>
                 <thead>
                     <tr>
-                        <th>Kick-Off</th>
-                        <th>League</th>
-                        <th>Home Team</th>
-                        <th>Away Team</th>
+                        <th>Data</th>
+                        <th>Liga</th>
+                        <th>Gospodarze</th>
+                        <th>Goście</th>
                         <th>Status</th>
                     </tr>
                 </thead>
-                <tbody></tbody>
+                <tbody id="matches"></tbody>
             </table>
         </main>
     </div>

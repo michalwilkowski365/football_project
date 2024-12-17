@@ -1,1513 +1,227 @@
 {
-    "World": {
-        "Euro Championship": 4,
-        "Confederations Cup": 21,
-        "World Cup": 1,
-        "Asian Games": 803,
-        "Caribbean Cup": 804,
-        "UEFA Champions League": 2,
-        "Asian Cup": 7,
-        "World Cup - Women": 8,
-        "FIFA Club World Cup": 15,
-        "Olympics Men": 480,
-        "CECAFA Senior Challenge Cup": 535,
-        "SAFF Championship": 28,
-        "UEFA Europa League": 3,
-        "World Cup - Qualification Intercontinental Play-offs": 37,
-        "AFC Challenge Cup": 807,
-        "African Nations Championship": 19,
-        "AFF Championship": 24,
-        "CONCACAF Gold Cup": 22,
-        "EAFF E-1 Football Championship": 23,
-        "OFC Champions League": 27,
-        "Africa Cup of Nations": 6,
-        "Copa America": 9,
-        "Olympics Women": 524,
-        "UEFA Super Cup": 531,
-        "CONCACAF Champions League": 16,
-        "AFC Champions League": 17,
-        "Gulf Cup of Nations": 25,
-        "International Champions Cup": 26,
-        "Copa Centroamericana": 805,
-        "OFC Nations Cup": 806,
-        "China Cup": 766,
-        "Friendlies": 10,
-        "UEFA Youth League": 14,
-        "AFC Cup": 18,
-        "CAF Confederation Cup": 20,
-        "UEFA U21 Championship": 38,
-        "World Cup - U20": 490,
-        "UEFA Nations League": 5,
-        "CONCACAF Nations League - Qualification": 808,
-        "World Cup - Qualification CONCACAF": 31,
-        "World Cup - Qualification Europe": 32,
-        "World Cup - Qualification Oceania": 33,
-        "World Cup - Qualification South America": 34,
-        "World Cup - Qualification Africa": 29,
-        "World Cup - Qualification Asia": 30,
-        "UEFA U19 Championship": 493,
-        "CONCACAF U20": 537,
-        "UEFA Champions League Women": 525,
-        "CAF Super Cup": 533,
-        "CONCACAF Caribbean Club Shield": 534,
-        "CONMEBOL Sudamericana": 11,
-        "CAF Champions League": 12,
-        "CONMEBOL Libertadores": 13,
-        "Asian Cup - Qualification": 35,
-        "Arab Club Champions Cup": 768,
-        "Premier League Asia Trophy": 769,
-        "Pacific Games": 770,
-        "Leagues Cup": 772,
-        "Sudamericano U20": 773,
-        "World Cup - U17": 587,
-        "CONCACAF League": 767,
-        "COSAFA U20 Championship": 771,
-        "Baltic Cup": 849,
-        "AFC U23 Asian Cup": 532,
-        "CONCACAF Nations League": 536,
-        "Africa Cup of Nations U20": 538,
-        "CONMEBOL Libertadores U20": 540,
-        "CONMEBOL Recopa": 541,
-        "Olympics Men - Qualification Concacaf": 881,
-        "Olympics Women - Qualification Asia": 882,
-        "Campeones Cup": 885,
-        "Friendlies Women": 666,
-        "Friendlies Clubs": 667,
-        "UEFA Championship - Women": 743,
-        "UEFA Europa Conference League": 848,
-        "CONCACAF Caribbean Club Championship": 856,
-        "CONCACAF Gold Cup - Qualification": 858,
-        "COSAFA Cup": 859,
-        "Arab Cup": 860,
-        "Youth Viareggio Cup": 910,
-        "CECAFA Club Cup": 869,
-        "World Cup - Women - Qualification Europe": 880,
-        "U20 Elite League": 890,
-        "Algarve Cup": 902,
-        "The Atlantic Cup": 903,
-        "Africa Cup of Nations - Qualification": 36,
-        "International Champions Cup - Women": 945,
-        "CONMEBOL Libertadores Femenina": 949,
-        "World Cup - U17 - Women": 950,
-        "South American Youth Games": 951,
-        "AFC U23 Asian Cup - Qualification": 952,
-        "Africa U23 Cup of Nations - Qualification": 953,
-        "UEFA U17 Championship - Qualification": 886,
-        "UEFA U19 Championship - Qualification": 893,
-        "Asian Cup Women - Qualification": 894,
-        "Asian Cup Women": 897,
-        "Tipsport Malta Cup": 900,
-        "SheBelieves Cup": 904,
-        "AFF U23 Championship": 908,
-        "CAC Games": 1016,
-        "Southeast Asian Games": 911,
-        "CONCACAF Women U17": 912,
-        "CONMEBOL - UEFA Finalissima": 913,
-        "Tournoi Maurice Revello": 914,
-        "Kirin Cup": 916,
-        "UEFA U19 Championship - Women": 918,
-        "Mediterranean Games": 919,
-        "World Cup - U20 - Women": 920,
-        "UEFA U17 Championship": 921,
-        "Africa Cup of Nations - Women": 922,
-        "Copa America Femenina": 926,
-        "World Cup - Women - Qualification Concacaf": 927,
-        "AFF U19 Championship": 928,
-        "Arab Championship - U20": 934,
-        "Emirates Cup": 937,
-        "COTIF Tournament": 940,
-        "Islamic Solidarity Games": 941,
-        "Premier League International Cup": 1039,
-        "UEFA Nations League - Women": 1040,
-        "African Football League": 1043,
-        "Pan American Games": 1045,
-        "All Africa Games": 1072,
-        "Euro Championship - Qualification": 960,
-        "CONCACAF U17": 963,
-        "AFC U20 Asian Cup": 965,
-        "CONMEBOL - U17": 970,
-        "CAF Cup of Nations - U17": 973,
-        "CAFA Nations Cup": 1008,
-        "AFC U17 Asian Cup": 1012,
-        "All-Island Cup - Women": 1013,
-        "CAF U23 Cup of Nations": 1015,
-        "UEFA - CONMEBOL - Club Challenge": 1024,
-        "Concacaf Central American Cup": 1028,
-        "King's Cup": 1038,
-        "UEFA U21 Championship - Qualification": 850,
-        "AFC U20 Asian Cup - Qualification": 1153,
-        "CECAFA U20 Championship": 1159,
-        "AFC U17 Asian Cup - Qualification": 1161,
-        "AGCFF Gulf Champions League": 1162,
-        "African Nations Championship - Qualification": 1163,
-        "CAF Women's Champions League": 1164,
-        "CONCACAF Women U20": 1001,
-        "CONCACAF Gold Cup - Qualification - Women": 1046,
-        "Olympics Women - Qualification CAF": 1047,
-        "CONCACAF Gold Cup - Women": 1057,
-        "CONMEBOL - Pre-Olympic Tournament": 1060,
-        "CONCACAF U20 - Qualification": 1066,
-        "AFC U20 Asian Cup - Women": 1070,
-        "WAFF Championship U23": 1077,
-        "CONMEBOL - U17 Femenino": 1081,
-        "CONMEBOL U20 Femenino": 1085,
-        "UAE-Qatar - Super Shield": 1089,
-        "AFC U17 Asian Cup - Women": 1101,
-        "UEFA U17 Championship - Women": 1102,
-        "Olympics - Intercontinental Play-offs": 1105,
-        "OFC U19 Championship": 1122,
-        "Qatar-UAE Super Cup": 1123,
-        "ASEAN Club Championship": 1129,
-        "AFC Challenge League": 1132,
-        "CONCACAF W Champions Cup": 1136,
-        "AFC Women's Champions League": 1140,
-        "FIFA Intercontinental Cup": 1168,
-        "UEFA Championship - Women - Qualification": 1083,
-        "EAFF E-1 Football Championship - Qualification": 1169
+    "Algeria": {
+        "Ligue 1": 144
     },
-    "France": {
-        "Ligue 1": 61,
-        "Ligue 2": 62,
-        "National 1": 63,
-        "Coupe de France": 66,
-        "Coupe de la Ligue": 65,
-        "National 2 - Group A": 67,
-        "National 2 - Group B": 68,
-        "National 2 - Group C": 69,
-        "National 2 - Group D": 70,
-        "Trophée des Champions": 526,
-        "Feminine Division 1": 64,
-        "National 3 - Group A": 461,
-        "National 3 - Group B": 462,
-        "National 3 - Group C": 463,
-        "National 3 - Group D": 464,
-        "National 3 - Group E": 465,
-        "National 3 - Group F": 466,
-        "National 3 - Group H": 467,
-        "National 3 - Group I": 468,
-        "National 3 - Group J": 469,
-        "National 3 - Group K": 470,
-        "National 3 - Group L": 471,
-        "National 3 - Group M": 472,
-        "National 3 - Group G": 1029
+    "Argentina": {
+        "Primera Division": 128,
+        "Primera Nacional": 129
+    },
+    "Australia": {
+        "A-League Men": 196
+    },
+    "Austria": {
+        "Bundesliga": 253,
+        "2. Liga": 254
     },
     "Belgium": {
-        "Jupiler Pro League": 144,
-        "Super Cup": 519,
-        "Challenger Pro League": 145,
-        "Super League Women": 146,
-        "Second Amateur Division - VFV A": 149,
-        "Second Amateur Division - VFV B": 150,
-        "Third Amateur Division - VFV A": 151,
-        "Third Amateur Division - VFV B": 152,
-        "Second Amateur Division - ACFF": 148,
-        "Provincial - Antwerpen": 153,
-        "Provincial - Brabant VFV": 154,
-        "Provincial - Hainaut": 155,
-        "Provincial - Liege": 156,
-        "Provincial - Limburg": 157,
-        "Provincial - Luxembourg": 158,
-        "Provincial - Namur": 159,
-        "Provincial - Oost-Vlaanderen": 160,
-        "Provincial - West-Vlaanderen": 161,
-        "First Amateur Division": 487,
-        "Reserve Pro League": 518,
-        "Cup": 147,
-        "Third Amateur Division - ACFF A": 689,
-        "Third Amateur Division - ACFF B": 690,
-        "Provincial - Brabant ACFF": 691,
-        "Provincial - Play-offs VV": 979,
-        "Provincial - Play-offs ACFF": 980,
-        "Third Amateur Division - Play-offs": 981,
-        "Second Amateur Division - Play-offs ": 1011
+        "Pro League": 144,
+        "Challenger Pro League": 145
     },
     "Brazil": {
         "Serie A": 71,
         "Serie B": 72,
-        "Serie C": 75,
-        "Serie D": 76,
-        "Acreano": 520,
-        "Amapaense": 521,
-        "Amazonense": 522,
-        "Copa Do Brasil": 73,
-        "Brasileiro Women": 74,
-        "Alagoano": 77,
-        "Baiano - 2": 613,
-        "Cearense - 2": 620,
-        "Carioca - 2": 625,
-        "Baiano - 1": 602,
-        "Paraibano": 603,
-        "Catarinense - 1": 604,
-        "Paulista - A3": 605,
-        "Paranaense - 1": 606,
-        "Roraimense": 607,
-        "Maranhense": 608,
-        "Cearense - 1": 609,
-        "Brasiliense": 610,
-        "Capixaba": 611,
-        "Copa do Nordeste": 612,
-        "Paranaense - 2": 614,
-        "Rondoniense": 615,
-        "Potiguar": 616,
-        "Copa do Brasil U20": 617,
-        "São Paulo Youth Cup": 618,
-        "Mineiro - 2": 619,
-        "Piauiense": 621,
-        "Pernambucano - 1": 622,
-        "Sul-Matogrossense": 623,
-        "Carioca - 1": 624,
-        "Sergipano": 626,
-        "Paraense": 627,
-        "Goiano - 1": 628,
-        "Mineiro - 1": 629,
-        "Matogrossense": 630,
-        "Tocantinense": 631,
-        "Supercopa do Brasil": 632,
-        "CBF Brasileiro U20": 740,
-        "Brasileiro de Aspirantes": 741,
-        "Copa Paulista": 742,
-        "Copa Verde": 843,
-        "Paulista - A1": 475,
-        "Paulista - A2": 476,
-        "Gaúcho - 1": 477,
-        "Gaúcho - 2": 478,
-        "Carioca A2": 851,
-        "Catarinense - 2": 936,
-        "Goiano - 2": 1030,
-        "Copa Rio": 1035,
-        "Copa Santa Catarina": 1036,
-        "Paraibano 2": 1037,
-        "Potiguar - 2": 1149,
-        "Gaúcho - 3": 1150,
-        "Pernambucano - 3": 1151,
-        "Catarinense - 3": 1154,
-        "Carioca B2": 1155,
-        "Paraense U20": 1157,
-        "Copa Gaúcha": 1158,
-        "Copa Fares Lopes": 1165,
-        "Recopa Catarinense": 1059,
-        "Paulista - A4": 1062,
-        "Copa Alagoas": 1063,
-        "Goiano U20": 1069,
-        "Paranaense U20": 1071,
-        "Baiano U20": 1073,
-        "Catarinense U20": 1076,
-        "Copa Rio U20": 1082,
-        "Paulista - U20": 1086,
-        "Pernambucano - U20": 1088,
-        "Matogrossense 2": 1096,
-        "Copa Espírito Santo": 1097,
-        "Paulista Série B": 1098,
-        "Brasiliense U20": 1100,
-        "Carioca C": 1106,
-        "Mineiro U20": 1107,
-        "Sergipano U20": 1108,
-        "Alagoano U20": 1110,
-        "Cearense U20": 1112,
-        "Carioca U20": 1114,
-        "Paraense B2": 1115,
-        "Paraibano U20": 1120,
-        "Cearense - 3": 1124,
-        "Pernambucano - 2": 1125,
-        "Brasileiro U17": 1128,
-        "Goiano - 3": 1133,
-        "Amazonense - 2": 1134,
-        "Sergipano - 2": 1135,
-        "Paranaense - 3": 1138,
-        "Potiguar - U20": 1139,
-        "Brasiliense B": 1141,
-        "Mineiro - 3": 1142,
-        "Estadual Junior U20": 1143,
-        "Paraense B1": 1145,
-        "Alagoano - 2": 1146,
-        "Maranhense - 2": 1148,
-        "Capixaba B": 1147
+        "Serie C": 73
+    },
+    "Bulgaria": {
+        "Parva Liga": 293,
+        "Vtora Liga": 294
+    },
+    "Canada": {
+        "Canadian Premier League": 349
+    },
+    "Chile": {
+        "Primera Division": 214,
+        "Primera B": 215
+    },
+    "China": {
+        "Super League": 307,
+        "League One": 308
+    },
+    "Colombia": {
+        "Primera A": 299,
+        "Primera B": 300
+    },
+    "Croatia": {
+        "1. HNL": 210,
+        "2. HNL": 211
+    },
+    "Czech-Republic": {
+        "Fortuna Liga": 221,
+        "FNL": 222
+    },
+    "Denmark": {
+        "Superliga": 202,
+        "1st Division": 203
+    },
+    "Egypt": {
+        "Premier League": 243
     },
     "England": {
         "Premier League": 39,
         "Championship": 40,
-        "EFL Trophy": 46,
-        "FA Cup": 45,
-        "FA Trophy": 47,
-        "League Cup": 48,
-        "National League": 43,
         "League One": 41,
         "League Two": 42,
-        "Community Shield": 528,
-        "FA WSL": 44,
-        "National League - Play-offs": 49,
-        "National League - North": 50,
-        "National League - South": 51,
-        "Non League Div One - Isthmian North": 52,
-        "Non League Div One - Isthmian South Central": 53,
-        "Non League Div One - Northern West": 54,
-        "Non League Div One - Northern Midlands": 55,
-        "Non League Div One - Southern South": 56,
-        "Non League Div One - Isthmian South East": 57,
-        "Non League Premier - Isthmian": 58,
-        "Non League Premier - Northern": 59,
-        "Non League Premier - Southern South": 60,
-        "FA Women's Cup": 698,
-        "Community Shield Women": 670,
-        "U18 Premier League - North": 695,
-        "U18 Premier League - South": 696,
-        "WSL Cup": 697,
-        "Women's Championship": 699,
-        "Premier League 2 Division One": 702,
-        "Professional Development League": 703,
-        "Premier League Cup": 871,
-        "National League - North - Play-offs": 984,
-        "National League - South - Play-offs": 985,
-        "Non League Div One - Play-offs": 986,
-        "U18 Premier League - Championship": 987,
-        "Non League Premier - Isthmian - Play-offs": 993,
-        "Non League Premier - Northern - Play-offs": 994,
-        "Non League Premier - Southern South - Play-offs": 995,
-        "Non League Premier - Southern Central - Play-offs": 996,
-        "Non League Premier - Southern Central": 931,
-        "Non League Div One - Northern East": 932,
-        "Non League Div One - Southern Central": 933,
-        "FA Youth Cup": 1068,
-        "Premier League - Summer Series": 1022,
-        "National League Cup": 1156
+        "National League": 43
+    },
+    "Estonia": {
+        "Meistriliiga": 340,
+        "Esiliiga": 341
+    },
+    "Finland": {
+        "Veikkausliiga": 244,
+        "Ykkönen": 245
+    },
+    "France": {
+        "Ligue 1": 61,
+        "Ligue 2": 62,
+        "National": 63
     },
     "Germany": {
         "Bundesliga": 78,
         "2. Bundesliga": 79,
         "3. Liga": 80,
-        "Super Cup": 529,
-        "DFB Pokal": 81,
-        "Frauen Bundesliga": 82,
-        "U19 Bundesliga": 488,
-        "Regionalliga - Bayern": 83,
-        "Regionalliga - Nord": 84,
-        "Regionalliga - Nordost": 85,
-        "Regionalliga - SudWest": 86,
-        "Regionalliga - West": 87,
-        "Oberliga - Schleswig-Holstein": 744,
-        "Oberliga - Hamburg": 745,
-        "Oberliga - Mittelrhein": 746,
-        "Oberliga - Westfalen": 747,
-        "Oberliga - Niedersachsen": 748,
-        "Oberliga - Bremen": 749,
-        "Oberliga - Hessen": 750,
-        "Oberliga - Niederrhein": 751,
-        "Oberliga - Rheinland-Pfalz / Saar": 752,
-        "Oberliga - Baden-Württemberg": 753,
-        "Oberliga - Nordost-Nord": 754,
-        "Oberliga - Nordost-Süd": 755,
-        "DFB Junioren Pokal": 715,
-        "DFB Pokal - Women": 947,
-        "Oberliga - Promotion Round": 988,
-        "Oberliga - Relegation Round": 989,
-        "Regionalliga - Promotion Play-offs": 1002,
-        "Regionalliga - Relegation Round": 1003,
-        "Oberliga - Bayern Nord": 938,
-        "Oberliga - Bayern Süd": 939,
-        "2. Frauen Bundesliga": 1034,
-        "Supercup der Frauen": 1137
+        "Regionalliga": 81
+    },
+    "Greece": {
+        "Super League": 266,
+        "Super League 2": 267
+    },
+    "Hungary": {
+        "NB I": 272,
+        "NB II": 273
+    },
+    "Iceland": {
+        "Urvalsdeild": 280,
+        "1. Deild": 281
+    },
+    "India": {
+        "Indian Super League": 349,
+        "I-League": 350
+    },
+    "Indonesia": {
+        "Liga 1": 316,
+        "Liga 2": 317
+    },
+    "Ireland": {
+        "Premier Division": 233,
+        "First Division": 234
+    },
+    "Israel": {
+        "Ligat Ha'Al": 309,
+        "Liga Leumit": 310
     },
     "Italy": {
         "Serie A": 135,
-        "Super Cup": 547,
         "Serie B": 136,
-        "Coppa Italia": 137,
-        "Serie C - Girone A": 138,
-        "Serie A Women": 139,
-        "Serie C - Girone B": 942,
-        "Serie C - Girone C": 943,
-        "Serie D - Girone A": 426,
-        "Serie D - Girone B": 427,
-        "Serie D - Girone C": 428,
-        "Serie D - Girone D": 429,
-        "Serie D - Girone E": 430,
-        "Serie D - Girone F": 431,
-        "Serie D - Girone G": 432,
-        "Serie D - Girone H": 433,
-        "Serie D - Girone I": 434,
-        "Super Cup Primavera": 817,
-        "Coppa Italia Primavera": 704,
-        "Campionato Primavera - 1": 705,
-        "Campionato Primavera - 2": 706,
-        "Coppa Italia Serie C": 891,
-        "Coppa Italia Serie D": 892,
-        "Serie C - Relegation - Play-offs": 975,
-        "Serie C - Promotion - Play-offs": 976,
-        "Serie C - Supercoppa Lega Finals": 974,
-        "Serie D - Promotion - Play-offs": 997,
-        "Serie D - Relegation - Play-offs": 998,
-        "Serie D - Championship Round": 999
-    },
-    "Netherlands": {
-        "Eredivisie": 88,
-        "Super Cup": 543,
-        "Eerste Divisie": 89,
-        "KNVB Beker": 90,
-        "Eredivisie Women": 91,
-        "Tweede Divisie": 492,
-        "Derde Divisie - Saturday": 92,
-        "Derde Divisie - Sunday": 93,
-        "U21 Divisie 1": 675,
-        "U18 Divisie 1": 724,
-        "Reserve League": 883,
-        "Derde Divisie - Relegation Round": 1004,
-        "U19 Divisie 1": 1152
-    },
-    "Portugal": {
-        "Primeira Liga": 94,
-        "Super Cup": 550,
-        "Taça de Portugal": 96,
-        "Segunda Liga": 95,
-        "Campeonato de Portugal Prio - Group A": 457,
-        "Campeonato de Portugal Prio - Group B": 458,
-        "Campeonato de Portugal Prio - Group C": 459,
-        "Campeonato de Portugal Prio - Group D": 460,
-        "Taça da Liga": 97,
-        "Taça Revelação U23": 840,
-        "Campeonato de Portugal Prio - Group E": 681,
-        "Campeonato de Portugal Prio - Group F": 682,
-        "Campeonato de Portugal Prio - Group G": 683,
-        "Campeonato de Portugal Prio - Group H": 684,
-        "Liga Revelação U23": 701,
-        "Liga 3": 865,
-        "1a Divisão - Women": 948,
-        "Campeonato de Portugal Prio - Promotion Round": 991,
-        "Júniores U19": 1041
-    },
-    "Spain": {
-        "La Liga": 140,
-        "Super Cup": 556,
-        "Segunda División": 141,
-        "Primera División Femenina": 142,
-        "Copa del Rey": 143,
-        "Primera División RFEF - Group 1": 435,
-        "Primera División RFEF - Group 2": 436,
-        "Primera División RFEF - Group 3": 437,
-        "Primera División RFEF - Group 4": 438,
-        "Tercera División RFEF - Group 1": 439,
-        "Tercera División RFEF - Group 2": 440,
-        "Tercera División RFEF - Group 3": 441,
-        "Tercera División RFEF - Group 4": 442,
-        "Tercera División RFEF - Group 5": 443,
-        "Tercera División RFEF - Group 6": 444,
-        "Tercera División RFEF - Group 7": 445,
-        "Tercera División RFEF - Group 8": 446,
-        "Tercera División RFEF - Group 9": 447,
-        "Tercera División RFEF - Group 10": 448,
-        "Tercera División RFEF - Group 11": 449,
-        "Tercera División RFEF - Group 12": 450,
-        "Tercera División RFEF - Group 13": 451,
-        "Tercera División RFEF - Group 14": 452,
-        "Tercera División RFEF - Group 15": 453,
-        "Tercera División RFEF - Group 16": 454,
-        "Tercera División RFEF - Group 17": 455,
-        "Tercera División RFEF - Group 18": 456,
-        "Copa Federacion": 735,
-        "Primera División RFEF - Group 5": 692,
-        "Segunda División RFEF - Group 1": 875,
-        "Segunda División RFEF - Group 2": 876,
-        "Segunda División RFEF - Group 3": 877,
-        "Segunda División RFEF - Group 4": 878,
-        "Segunda División RFEF - Group 5": 879,
-        "Tercera División RFEF - Promotion - Play-offs": 977,
-        "Segunda División RFEF - Play-offs": 1000,
-        "Primera División RFEF - Play Offs": 1006,
-        "Supercopa Femenina": 1058
-    },
-    "Scotland": {
-        "Premiership": 179,
-        "Championship": 180,
-        "League One": 183,
-        "League Two": 184,
-        "League Cup": 185,
-        "FA Cup": 181,
-        "Challenge Cup": 182,
-        "Football League - Highland League": 730,
-        "Football League - Lowland League": 731,
-        "Football League - Championship": 992,
-        "SWPL Cup": 1074,
-        "SWF Scottish Cup": 1078
-    },
-    "Albania": {
-        "1st Division": 311,
-        "Superliga": 310,
-        "2nd Division - Group A": 512,
-        "2nd Division - Group B": 513,
-        "Cup": 707,
-        "Super Cup": 708,
-        "2nd Division - Play-offs": 978
-    },
-    "Algeria": {
-        "Ligue 1": 186,
-        "Ligue 2": 187,
-        "Coupe Nationale": 514,
-        "Super Cup": 516,
-        "U21 League 1": 515,
-        "Coupe de la Ligue": 832
-    },
-    "Tajikistan": {
-        "Vysshaya Liga": 571
-    },
-    "Palestine": {
-        "West Bank Premier League": 586
-    },
-    "Myanmar": {
-        "National League": 588
-    },
-    "Trinidad-And-Tobago": {
-        "Pro League": 591
-    },
-    "Ukraine": {
-        "Cup": 335,
-        "Druha Liga": 336,
-        "Persha Liga": 334,
-        "Premier League": 333,
-        "Druha Liga - Group B": 337,
-        "Super Cup": 678,
-        "U21 League": 679,
-        "U19 League": 1065
-    },
-    "United-Arab-Emirates": {
-        "Pro League": 301,
-        "Division 1": 303,
-        "League Cup": 302,
-        "Presidents Cup": 560,
-        "Super Cup": 896
-    },
-    "Uruguay": {
-        "Segunda División": 269,
-        "Primera División - Apertura": 268,
-        "Primera División - Clausura": 270,
-        "Super Copa": 842,
-        "Copa Uruguay": 930
-    },
-    "Tunisia": {
-        "Ligue 1": 202,
-        "Cup": 511,
-        "Ligue 2": 828
-    },
-    "Turkey": {
-        "Süper Lig": 203,
-        "1. Lig": 204,
-        "2. Lig": 205,
-        "Cup": 206,
-        "3. Lig - Group 1": 552,
-        "3. Lig - Group 2": 553,
-        "3. Lig - Group 3": 554,
-        "Super Cup": 551,
-        "3. Lig - Play-offs": 1007,
-        "3. Lig - Group 4": 1027
-    },
-    "Egypt": {
-        "Premier League": 233,
-        "Super Cup": 539,
-        "Cup": 714,
-        "Second League": 887,
-        "Second League - Group B": 888,
-        "Second League - Group C": 889,
-        "League Cup": 895,
-        "Second League - Play-offs": 1014
-    },
-    "El-Salvador": {
-        "Primera Division": 370
-    },
-    "Estonia": {
-        "Esiliiga A": 328,
-        "Meistriliiga": 329,
-        "Cup": 657,
-        "Esiliiga B": 1126
-    },
-    "Georgia": {
-        "Erovnuli Liga 2": 326,
-        "Erovnuli Liga": 327,
-        "Super Cup": 530,
-        "David Kipiani Cup": 672,
-        "Liga 3": 1104
-    },
-    "Ghana": {
-        "Premier League": 570,
-        "Cup": 966,
-        "Super Cup": 1144
-    },
-    "Guadeloupe": {
-        "Division d'Honneur": 377
-    },
-    "Guatemala": {
-        "Liga Nacional": 339,
-        "Primera Division": 338
-    },
-    "Greece": {
-        "Cup": 199,
-        "Football League": 198,
-        "Super League 1": 197,
-        "Super League 2": 494,
-        "Gamma Ethniki - Group 1": 576,
-        "Gamma Ethniki - Group 2": 577,
-        "Gamma Ethniki - Group 3": 578,
-        "Gamma Ethniki - Group 4": 579,
-        "Gamma Ethniki - Group 5": 580,
-        "Gamma Ethniki - Group 6": 581,
-        "Gamma Ethniki - Group 7": 582,
-        "Gamma Ethniki - Group 8": 583,
-        "Gamma Ethniki - Group 9": 693,
-        "Gamma Ethniki - Group 10": 694,
-        "Gamma Ethniki - Promotion Group": 990,
-        "Gamma Ethniki - Relegation Play-offs": 1099
-    },
-    "Andorra": {
-        "1a Divisió": 312,
-        "2a Divisió": 313,
-        "Copa Constitució": 655,
-        "Super Cup": 809
-    },
-    "Argentina": {
-        "Primera B Metropolitana": 131,
-        "Primera Nacional": 129,
-        "Primera C": 132,
-        "Primera D": 133,
-        "Torneo Federal A": 134,
-        "Liga Profesional Argentina": 128,
-        "Copa Argentina": 130,
-        "Trofeo de Campeones de la Superliga": 517,
-        "Super Copa": 810,
-        "Copa de la Superliga": 483,
-        "Reserve League": 906,
-        "Copa de la Liga Profesional": 1032,
-        "Torneo Promocional Amateur": 1067
-    },
-    "Australia": {
-        "A-League": 188,
-        "Brisbane Premier League": 191,
-        "Northern Territory Premier League": 193,
-        "Northern NSW NPL": 481,
-        "Capital Territory NPL": 189,
-        "A-League Women": 190,
-        "New South Wales NPL": 192,
-        "South Australia NPL": 194,
-        "Victoria NPL": 195,
-        "Western Australia NPL": 196,
-        "Queensland NPL": 482,
-        "Tasmania NPL": 648,
-        "Queensland Premier League": 833,
-        "South Australia State League 1": 834,
-        "New South Wales NPL 2": 835,
-        "Victoria NPL 2": 836,
-        "Australia Cup": 874,
-        "NNSW League 1": 1090,
-        "Tasmania Northern Championship": 1091,
-        "Capital Territory NPL 2": 1092,
-        "Tasmania Southern Championship": 1093,
-        "Western Australia State League 1": 1094
-    },
-    "Austria": {
-        "Cup": 220,
-        "2. Liga": 219,
-        "Bundesliga": 218,
-        "Regionalliga - Mitte": 222,
-        "Regionalliga - Ost": 221,
-        "Regionalliga - West": 223,
-        "Landesliga - Burgenland": 224,
-        "Landesliga - Karnten": 225,
-        "Landesliga - Niederosterreich": 226,
-        "Landesliga - Oberosterreich": 227,
-        "Landesliga - Salzburg": 228,
-        "Landesliga - Steiermark": 229,
-        "Landesliga - Tirol": 230,
-        "Landesliga - Vorarlbergliga": 231,
-        "Landesliga - Wien": 232,
-        "Frauenliga": 484,
-        "Regionalliga - Tirol": 687,
-        "Regionalliga - Salzburg": 688
-    },
-    "Azerbaidjan": {
-        "Birinci Dasta": 418,
-        "Premyer Liqa": 419,
-        "Cup": 420
-    },
-    "Wales": {
-        "Premier League": 110,
-        "Welsh Cup": 112,
-        "FAW Championship": 111,
-        "League Cup": 738
-    },
-    "Venezuela": {
-        "Primera División": 299,
-        "Segunda División": 300,
-        "Copa Venezuela": 1113
-    },
-    "Oman": {
-        "Professional League": 406,
-        "Sultan Cup": 726,
-        "Super Cup": 944
-    },
-    "Jamaica": {
-        "Premier League": 322
-    },
-    "Jordan": {
-        "League": 387,
-        "Shield Cup": 816,
-        "Super Cup": 838,
-        "Cup": 863
-    },
-    "Kazakhstan": {
-        "1. Division": 388,
-        "Premier League": 389,
-        "Cup": 498,
-        "Super Cup": 818
-    },
-    "Kuwait": {
-        "Premier League": 330,
-        "Division 1": 331,
-        "Crown Prince Cup": 820,
-        "Super Cup": 719,
-        "Emir Cup": 720
-    },
-    "Denmark": {
-        "Superliga": 119,
-        "1. Division": 120,
-        "Denmark Series - Group 1": 124,
-        "Denmark Series - Group 2": 125,
-        "Denmark Series - Group 3": 126,
-        "DBU Pokalen": 121,
-        "2nd Division - Group 1": 122,
-        "2nd Division - Group 2": 123,
-        "Denmark Series - Group 4": 127,
-        "Kvindeliga": 638,
-        "3. Division": 862,
-        "Denmark Series - Promotion Round": 982,
-        "Denmark Series - Relegation Round": 983
-    },
-    "Honduras": {
-        "Liga Nacional": 234
-    },
-    "Hong-Kong": {
-        "HKFA 1st Division": 381,
-        "Premier League": 380,
-        "FA Cup": 544,
-        "Senior Shield": 716,
-        "Sapling Cup": 1160,
-        "HKPL Cup": 1051
-    },
-    "Hungary": {
-        "Magyar Kupa": 273,
-        "NB I": 271,
-        "NB II": 272,
-        "NB III - Northeast": 633,
-        "NB III - Southwest": 634,
-        "NB III - Northwest": 635,
-        "NB III - Promotion Play-offs": 1111,
-        "NB III - Southeast": 1023
-    },
-    "Lebanon": {
-        "Premier League": 390,
-        "Cup": 967,
-        "Federation Cup": 1018
-    },
-    "Luxembourg": {
-        "National Division": 261,
-        "Cup": 721
-    },
-    "Qatar": {
-        "Second Division": 306,
-        "Stars League": 305,
-        "QSL Cup": 677,
-        "QFA Cup": 841,
-        "Emir Cup": 824,
-        "Qatar Cup": 825
-    },
-    "Surinam": {
-        "Eerste Divisie": 568
-    },
-    "Barbados": {
-        "Premier League": 422
-    },
-    "Uganda": {
-        "Premier League": 585
-    },
-    "Mali": {
-        "Première Division": 598
-    },
-    "USA": {
-        "Major League Soccer": 253,
-        "US Open Cup": 257,
-        "USL Championship": 255,
-        "USL League Two": 256,
-        "USL League One": 489,
-        "NISA": 523,
-        "NWSL Women": 254,
-        "NWSL Women - Challenge Cup": 641,
-        "MLS All-Star": 866,
-        "MLS Next Pro": 909,
-        "USL League One Cup": 1095,
-        "WPSL": 1116,
-        "USL W League": 1117,
-        "NPSL": 1118,
-        "NWSL - Liga MXF Summer Cup": 1119,
-        "USL Super League": 1130
-    },
-    "Uzbekistan": {
-        "Super League": 369,
-        "Cup": 802,
-        "Super Cup": 830,
-        "Pro League A": 1075
-    },
-    "Thailand": {
-        "Thai League 1": 296,
-        "Thai League 2": 297,
-        "FA Cup": 298,
-        "Thai Champions Cup": 873,
-        "League Cup": 898
-    },
-    "Faroe-Islands": {
-        "1. Deild": 366,
-        "Meistaradeildin": 367,
-        "Løgmanssteypid": 491
-    },
-    "Finland": {
-        "Ykkönen": 245,
-        "Veikkausliiga": 244,
-        "Suomen Cup": 246,
-        "Kakkonen - Lohko A": 247,
-        "Kakkonen - Lohko B": 248,
-        "Kakkonen - Lohko C": 249,
-        "Kansallinen Liiga": 640,
-        "Kakkosen Cup": 700,
-        "League Cup": 899,
-        "Ykköscup": 901,
-        "Kakkonen - Play-offs": 1052,
-        "Ykkösliiga": 1087
-    },
-    "Ecuador": {
-        "Liga Pro": 242,
-        "Liga Pro Serie B": 243,
-        "Supercopa de Ecuador": 853,
-        "Copa Ecuador": 917
-    },
-    "Angola": {
-        "Girabola": 397
-    },
-    "Armenia": {
-        "First League": 343,
-        "Premier League": 342,
-        "Super Cup": 654,
-        "Cup": 709
-    },
-    "Belarus": {
-        "Premier League": 116,
-        "1. Division": 117,
-        "2. Division": 118,
-        "Coppa": 486,
-        "Reserve League": 562,
-        "Super Cup": 812
-    },
-    "Zambia": {
-        "Super League": 400
-    },
-    "Vietnam": {
-        "V.League 1": 340,
-        "Cup": 341,
-        "V.League 2": 637,
-        "Super Cup": 831
+        "Serie C - Group A": 137,
+        "Serie C - Group B": 138,
+        "Serie C - Group C": 139
     },
     "Japan": {
-        "Emperor Cup": 102,
-        "J-League Cup": 101,
         "J1 League": 98,
-        "J2 League": 99,
-        "J3 League": 100,
-        "Japan Football League": 497,
-        "Super Cup": 548,
-        "WE League": 854
-    },
-    "Kenya": {
-        "FKF Premier League": 276,
-        "Super League": 277,
-        "Shield Cup": 971
-    },
-    "Haiti": {
-        "Ligue Haïtienne": 379
-    },
-    "Latvia": {
-        "1. Liga": 364,
-        "Virsliga": 365,
-        "Cup": 658
-    },
-    "Lithuania": {
-        "1 Lyga": 361,
-        "A Lyga": 362,
-        "Cup": 661,
-        "Super Cup": 839
-    },
-    "Singapore": {
-        "League Cup": 505,
-        "Premier League": 368,
-        "Cup": 959
-    },
-    "Aruba": {
-        "Division di Honor": 421
-    },
-    "Fiji": {
-        "National Football League": 376
-    },
-    "Guinea": {
-        "Ligue 1": 378
-    },
-    "Chile": {
-        "Super Cup": 527,
-        "Primera División": 265,
-        "Primera B": 266,
-        "Copa Chile": 267,
-        "Segunda División": 711
-    },
-    "Czech-Republic": {
-        "Super Cup": 925,
-        "Czech Liga": 345,
-        "FNL": 346,
-        "3. liga - CFL A": 348,
-        "3. liga - MSFL": 349,
-        "4. liga - Divizie A": 350,
-        "4. liga - Divizie B": 351,
-        "4. liga - Divizie C": 352,
-        "4. liga - Divizie D": 353,
-        "4. liga - Divizie E": 354,
-        "Cup": 347,
-        "1. Liga U19": 668,
-        "1. Liga Women": 669,
-        "3. liga - CFL B": 685,
-        "4. liga - Divizie F": 686,
-        "3. liga - Promotion Play-off": 1010
-    },
-    "Ethiopia": {
-        "Premier League": 363
-    },
-    "Tanzania": {
-        "Ligi kuu Bara": 567
-    },
-    "Romania": {
-        "Supercupa": 555,
-        "Liga I": 283,
-        "Liga II": 284,
-        "Cupa României": 285,
-        "Liga III - Serie 1": 784,
-        "Liga III - Serie 2": 785,
-        "Liga III - Serie 3": 786,
-        "Liga III - Serie 4": 787,
-        "Liga III - Serie 5": 788,
-        "Liga III - Serie 6": 789,
-        "Liga III - Serie 7": 790,
-        "Liga III - Serie 8": 791,
-        "Liga III - Serie 9": 792,
-        "Liga III - Serie 10": 793,
-        "Liga 1 Feminin": 728,
-        "Liga III - Play-offs": 1009
-    },
-    "Sweden": {
-        "Ettan - Norra": 563,
-        "Ettan - Södra": 564,
-        "Allsvenskan": 113,
-        "Superettan": 114,
-        "Division 2 - Norra Götaland": 592,
-        "Division 2 - Norra Svealand": 593,
-        "Division 2 - Norrland": 594,
-        "Division 2 - Södra Svealand": 595,
-        "Division 2 - Västra Götaland": 596,
-        "Division 2 - Östra Götaland": 597,
-        "Svenska Cupen": 115,
-        "Svenska Cupen - Women": 737,
-        "Damallsvenskan": 549,
-        "Elitettan": 736,
-        "Division 2 - Play-offs": 1053,
-        "Ettan - Relegation Round": 1055
-    },
-    "Bosnia": {
-        "1st League - RS": 317,
-        "1st League - FBiH": 316,
-        "Cup": 314,
-        "Premijer Liga": 315
-    },
-    "South-Korea": {
-        "K3 League": 295,
-        "K League 1": 292,
-        "K League 2": 293,
-        "FA Cup": 294,
-        "WK-League": 660
-    },
-    "Iran": {
-        "Hazfi Cup": 495,
-        "Persian Gulf Pro League": 290,
-        "Azadegan League": 291,
-        "Super Cup": 905
-    },
-    "Israel": {
-        "Liga Alef": 496,
-        "Liga Leumit": 382,
-        "Ligat Ha'al": 383,
-        "State Cup": 384,
-        "Toto Cup Ligat Al": 385,
-        "Super Cup": 659
-    },
-    "Slovakia": {
-        "2. liga": 506,
-        "Super Liga": 332,
-        "I Liga - Women": 733,
-        "3. liga - Bratislava": 643,
-        "3. liga - West": 644,
-        "3. liga - East": 645,
-        "3. liga - Center": 646,
-        "Cup": 680
-    },
-    "Iceland": {
-        "2. Deild": 166,
-        "Úrvalsdeild": 164,
-        "1. Deild": 165,
-        "Cup": 167,
-        "League Cup": 168,
-        "Super Cup": 639,
-        "Úrvalsdeild Women": 671,
-        "Reykjavik Cup": 814,
-        "Fotbolti.net Cup A": 815
-    },
-    "Macedonia": {
-        "First League": 371,
-        "Second League": 372,
-        "Cup": 756
-    },
-    "Ivory-Coast": {
-        "Ligue 1": 386
-    },
-    "Malta": {
-        "Challenge League": 392,
-        "Premier League": 393,
-        "FA Trophy": 821,
-        "Super Cup": 1050
-    },
-    "Moldova": {
-        "Super Liga": 394,
-        "Liga 1": 395,
-        "Cupa": 674
-    },
-    "Nicaragua": {
-        "Primera Division": 396,
-        "Liga Primera U20": 565
-    },
-    "Nigeria": {
-        "NPFL": 399
-    },
-    "Zimbabwe": {
-        "Premier Soccer League": 401
-    },
-    "Sudan": {
-        "Sudani Premier League": 402
-    },
-    "Senegal": {
-        "Ligue 1": 403
-    },
-    "San-Marino": {
-        "Campionato": 404,
-        "Coppa Titano": 729,
-        "Super Cup": 884
-    },
-    "Cameroon": {
-        "Elite One": 411,
-        "Elite Two": 813,
-        "Super Cup": 1166
-    },
-    "Cambodia": {
-        "C-League": 410
-    },
-    "Bahrain": {
-        "Premier League": 417,
-        "Federation Cup": 485,
-        "King's Cup": 1049,
-        "Super Cup": 1109
-    },
-    "Benin": {
-        "Championnat National": 415
-    },
-    "Bermuda": {
-        "Premier League": 414
-    },
-    "Bhutan": {
-        "Super League": 413,
-        "Premier League": 1031
-    },
-    "Botswana": {
-        "Premier League": 412
-    },
-    "Bangladesh": {
-        "Premier League": 398,
-        "Federation Cup": 811
-    },
-    "Norway": {
-        "Eliteserien": 103,
-        "1. Division": 104,
-        "Super Cup": 557,
-        "2. Division - Group 1": 473,
-        "2. Division - Group 2": 474,
-        "NM Cupen": 105,
-        "3. Division - Girone 1": 774,
-        "3. Division - Girone 2": 775,
-        "3. Division - Girone 3": 776,
-        "3. Division - Girone 4": 777,
-        "3. Division - Girone 5": 778,
-        "3. Division - Girone 6": 779,
-        "Toppserien": 725,
-        "Nasjonal U19 Champions League": 823,
-        "1. Division Women": 915,
-        "2. Division - Play-offs": 1054
-    },
-    "Costa-Rica": {
-        "Primera División": 162,
-        "Liga de Ascenso": 163,
-        "Supercopa": 864,
-        "Copa Costa Rica": 958,
-        "Recopa": 1167
-    },
-    "China": {
-        "Super League": 169,
-        "League One": 170,
-        "FA Cup": 171,
-        "League Two": 929,
-        "Super Cup": 972
-    },
-    "Morocco": {
-        "Botola Pro": 200,
-        "Botola 2": 201,
-        "Cup": 822
-    },
-    "Switzerland": {
-        "Super League": 207,
-        "Challenge League": 208,
-        "1. Liga Promotion": 510,
-        "Schweizer Cup": 209,
-        "1. Liga Classic - Group 1": 599,
-        "1. Liga Classic - Group 2": 600,
-        "1. Liga Classic - Group 3": 601,
-        "AXA Women’s Super League": 739,
-        "2. Liga Interregional - Group 1": 796,
-        "2. Liga Interregional - Group 2": 797,
-        "2. Liga Interregional - Group 3": 798,
-        "2. Liga Interregional - Group 4": 799,
-        "2. Liga Interregional - Group 5": 800,
-        "2. Liga Interregional - Group 6": 801,
-        "1. Liga Classic - Play-offs": 1005,
-        "Erste Liga Cup": 1044
-    },
-    "Croatia": {
-        "HNL": 210,
-        "First NL": 211,
-        "Cup": 212,
-        "Third NL - Istok": 213,
-        "Third NL - Jug": 214,
-        "Third NL - Sjever": 215,
-        "Third NL - Sredite": 216,
-        "Third NL - Zapad": 217,
-        "Second NL": 946,
-        "Super Cup": 1021
-    },
-    "Russia": {
-        "Premier League": 235,
-        "First League": 236,
-        "Youth Championship": 238,
-        "Cup": 237,
-        "Supreme Division Women": 649,
-        "Second League - Group 3": 650,
-        "Second League - Group 1": 651,
-        "Second League - Group 2": 652,
-        "Second League - Group 4": 653,
-        "Super Cup": 663,
-        "Second League A - Spring Season Gold": 1061,
-        "Second League A - Spring Season Silver": 1064,
-        "Second League A - Promotion Play-offs": 1121,
-        "Second League A - Fall Season Gold": 1025,
-        "Second League A - Fall Season Silver": 1026
-    },
-    "Colombia": {
-        "Primera A": 239,
-        "Primera B": 240,
-        "Copa Colombia": 241,
-        "Liga Femenina": 712,
-        "Superliga": 713
-    },
-    "Paraguay": {
-        "Division Profesional - Apertura": 250,
-        "Division Intermedia": 251,
-        "Division Profesional - Clausura": 252,
-        "Copa Paraguay": 501,
-        "Supercopa": 961
-    },
-    "Bulgaria": {
-        "Second League": 173,
-        "Cup": 174,
-        "First League": 172,
-        "Third League - Northeast": 175,
-        "Third League - Northwest": 176,
-        "Third League - Southeast": 177,
-        "Third League - Southwest": 178,
-        "Super Cup": 656
+        "J2 League": 99
     },
     "Mexico": {
         "Liga MX": 262,
-        "Liga de Expansión MX": 263,
-        "Copa MX": 264,
-        "Copa por México": 662,
-        "Liga MX Femenil": 673,
-        "Liga Premier Serie A": 722,
-        "Campeón de Campeones": 857,
-        "U20 League": 861,
-        "Liga Premier Serie B": 872,
-        "U23 League": 1017
+        "Liga de Expansion MX": 263
     },
-    "Canada": {
-        "Canadian Championship": 259,
-        "Canadian Soccer League": 258,
-        "Pacific Coast Soccer League": 260,
-        "Canadian Premier League": 479,
-        "League 1 Ontario": 923
+    "Montenegro": {
+        "First League": 345
     },
-    "Malaysia": {
-        "Super League": 278,
-        "Premier League": 279,
-        "Malaysia Cup": 499,
-        "FA Cup": 500
+    "Morocco": {
+        "Botola Pro": 352
     },
-    "New-Zealand": {
-        "Premiership": 280,
-        "National League - Central": 954,
-        "National League - National": 955,
-        "National League - Northern": 956,
-        "National League - Southern": 957,
-        "National League - Championship - Final": 1056,
-        "Chatham Cup": 1127
-    },
-    "Peru": {
-        "Primera División": 281,
-        "Segunda División": 282,
-        "Copa Bicentenario": 502,
-        "Copa Perú": 503,
-        "Supercopa": 558
-    },
-    "Serbia": {
-        "Super Liga": 286,
-        "Prva Liga": 287,
-        "Srpska Liga - Belgrade": 572,
-        "Srpska Liga - Vojvodina": 573,
-        "Srpska Liga - East": 574,
-        "Srpska Liga - West": 575,
-        "Cup": 732
-    },
-    "South-Africa": {
-        "Premier Soccer League": 288,
-        "1st Division": 289,
-        "Cup": 507,
-        "League Cup": 508,
-        "8 Cup": 509,
-        "Diski Challenge": 734,
-        "Diski Shield": 935
-    },
-    "Saudi-Arabia": {
-        "Pro League": 307,
-        "Division 1": 308,
-        "Division 2": 309,
-        "Crown Prince Cup": 827,
-        "King's Cup": 504,
-        "Super Cup": 826
-    },
-    "Kyrgyzstan": {
-        "Premier League": 569
+    "Netherlands": {
+        "Eredivisie": 88,
+        "Eerste Divisie": 89
     },
     "Northern-Ireland": {
-        "League Cup": 559,
-        "Premier Intermediate League": 561,
-        "Championship": 407,
-        "Premiership": 408,
-        "Irish Cup": 757,
-        "Charity Shield": 1019,
-        "Premiership Women": 1103
+        "NIFL Premiership": 330,
+        "NIFL Championship": 331
     },
-    "Syria": {
-        "Premier League": 425
+    "Norway": {
+        "Eliteserien": 264,
+        "OBOS-ligaen": 265
     },
-    "Libya": {
-        "Premier League": 584
-    },
-    "Chinese-Taipei": {
-        "Taiwan Football Premier League": 589
-    },
-    "Indonesia": {
-        "Liga 1": 274,
-        "Piala Indonesia": 718,
-        "Liga 2": 275,
-        "Piala Presiden": 924
-    },
-    "Panama": {
-        "Liga Panameña de Fútbol": 304
+    "Philippines": {
+        "PFL": 372
     },
     "Poland": {
         "Ekstraklasa": 106,
         "I Liga": 107,
-        "II Liga - East": 109,
-        "Cup": 108,
-        "III Liga - Group 1": 780,
-        "III Liga - Group 2": 781,
-        "III Liga - Group 3": 782,
-        "III Liga - Group 4": 783,
-        "Central Youth League": 676,
-        "Super Cup": 727,
-        "Ekstraliga Women": 1033
+        "II Liga": 108
     },
-    "Cyprus": {
-        "1. Division": 318,
-        "2. Division": 319,
-        "3. Division": 320,
-        "Cup": 321,
-        "Super Cup": 852
+    "Portugal": {
+        "Primeira Liga": 94,
+        "Segunda Liga": 95
     },
-    "India": {
-        "Indian Super League": 323,
-        "I-League": 324,
-        "AIFF Super Cup": 545,
-        "Santosh Trophy": 325,
-        "I-League - 2nd Division": 717,
-        "Calcutta Premier Division": 1020
+    "Qatar": {
+        "Stars League": 310
     },
-    "Montenegro": {
-        "First League": 355,
-        "Second League": 356,
-        "Cup": 723
+    "Romania": {
+        "Liga I": 310,
+        "Liga II": 311
     },
-    "Bolivia": {
-        "Primera División": 344,
-        "Nacional B": 710,
-        "Copa de la División Profesional": 964
+    "Saudi-Arabia": {
+        "Pro League": 307,
+        "Division 1": 308
     },
-    "Slovenia": {
-        "1. SNL": 373,
-        "2. SNL": 374,
-        "Cup": 375,
-        "3. SNL - East": 794,
-        "3. SNL - West": 795
+    "Scotland": {
+        "Premiership": 179,
+        "Championship": 180,
+        "League One": 181,
+        "League Two": 182
     },
-    "Malawi": {
-        "Super League": 391
+    "Serbia": {
+        "SuperLiga": 291,
+        "Prva Liga": 292
     },
-    "Rwanda": {
-        "National Soccer League": 405
+    "South-Korea": {
+        "K League 1": 233,
+        "K League 2": 234
     },
-    "Namibia": {
-        "Premier League": 409
+    "Spain": {
+        "La Liga": 140,
+        "Segunda Division": 141,
+        "Primera RFEF": 142,
+        "Segunda RFEF": 143
     },
-    "Belize": {
-        "Premier League": 416
+    "Sweden": {
+        "Allsvenskan": 318,
+        "Superettan": 319
     },
-    "Burkina-Faso": {
-        "Ligue 1": 423
+    "Switzerland": {
+        "Super League": 201,
+        "Challenge League": 202
     },
-    "Congo-DR": {
-        "Ligue 1": 424
+    "Thailand": {
+        "Thai League 1": 359,
+        "Thai League 2": 360
     },
-    "Ireland": {
-        "FAI Cup": 359,
-        "League Cup": 360,
-        "Premier Division": 357,
-        "First Division": 358,
-        "FAI President's Cup": 546
+    "Tunisia": {
+        "Ligue Professionnelle 1": 361
     },
-    "Burundi": {
-        "Ligue A": 566
+    "Turkey": {
+        "Super Lig": 203,
+        "1. Lig": 204
     },
-    "Curacao": {
-        "Curaçao Sekshon Pagá": 642
+    "USA": {
+        "MLS": 253,
+        "USL Championship": 254
     },
-    "Kosovo": {
-        "Superliga": 664,
-        "Cup": 665,
-        "Super Cup": 819
+    "Ukraine": {
+        "Premier League": 246
     },
-    "Nepal": {
-        "A Division": 590
+    "United-Arab-Emirates": {
+        "UAE Pro League": 291
     },
-    "Turkmenistan": {
-        "Ýokary Liga": 636,
-        "Youth League": 829
+    "Uruguay": {
+        "Primera Division": 361
     },
-    "Gibraltar": {
-        "Premier Division": 758,
-        "Rock Cup": 837,
-        "Super Cup": 1042
+    "Venezuela": {
+        "Primera Division": 364
     },
-    "Dominican-Republic": {
-        "Liga Mayor": 759
-    },
-    "Liberia": {
-        "LFA First Division": 760
-    },
-    "Liechtenstein": {
-        "Cup": 761
-    },
-    "Mauritania": {
-        "Premier League": 762
-    },
-    "Mauritius": {
-        "Mauritian League": 763
-    },
-    "Mongolia": {
-        "Premier League": 764,
-        "Super Cup": 1131
-    },
-    "Philippines": {
-        "PFL": 765,
-        "Copa Paulino Alcantara": 867
-    },
-    "Congo": {
-        "Ligue 1": 844
-    },
-    "Gambia": {
-        "GFA League": 845
-    },
-    "Eswatini": {
-        "Premier League": 847
-    },
-    "Iraq": {
-        "Iraqi League": 542
-    },
-    "Laos": {
-        "Lao League": 647
-    },
-    "Somalia": {
-        "Somali Premier League": 846
-    },
-    "Maldives": {
-        "Dhivehi Premier League": 855
-    },
-    "Pakistan": {
-        "Premier League": 868
-    },
-    "Crimea": {
-        "Premier League": 870
-    },
-    "Lesotho": {
-        "Premier League": 962
-    },
-    "Gabon": {
-        "Championnat D1": 968
-    },
-    "Cuba": {
-        "Primera Division": 907
-    },
-    "Antigua-And-Barbuda": {
-        "Premier Division": 1048
-    },
-    "Yemen": {
-        "Yemeni League": 1079
-    },
-    "Grenada": {
-        "Premier Division": 1080
-    },
-    "Togo": {
-        "Championnat National": 1084
-    },
-    "Macao": {
-        "Primeira Divisão": 969
+    "Wales": {
+        "Cymru Premier": 320
     }
 }

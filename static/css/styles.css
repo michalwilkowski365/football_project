@@ -1,69 +1,55 @@
 body {
-    font-family: 'Courier New', Courier, monospace;
-    color: black;
+    display: flex;
     margin: 0;
-    padding: 0;
+    font-family: Arial, sans-serif;
 }
 
 .container {
     display: flex;
+    width: 100%;
 }
 
 .sidebar {
-    width: 25%;
-    background-color: #f4f4f4;
-    padding: 10px;
-    border-right: 1px solid #ccc;
-    max-height: 100vh;
-    overflow-y: auto;
-    overflow-x: hidden;
-}
-
-.sidebar h2 {
-    text-align: center;
-    margin-bottom: 10px;
+    width: 20%;
+    background: #f4f4f4;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
 }
 
 .sidebar ul {
-    list-style-type: none;
+    list-style: none;
     padding: 0;
 }
 
-.sidebar ul li {
-    margin: 5px 0;
-}
-
-.sidebar ul li ul {
-    display: none;
-    list-style-type: none;
-    padding-left: 15px;
-}
-
-.sidebar ul li ul li {
-    margin: 5px 0;
-    display: flex;
-    align-items: center;
+.sidebar li {
+    padding: 10px;
     cursor: pointer;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
 }
 
-.sidebar ul li ul li input[type="checkbox"] {
-    margin-right: 10px;
-    cursor: pointer;
+.sidebar li:hover {
+    background-color: #ddd;
 }
 
 main {
     flex: 1;
-    padding: 10px;
+    padding: 20px;
+    background: #fff;
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 20px;
 }
 
-table th, table td {
-    border: 1px solid #ccc;
-    padding: 8px;
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
     text-align: center;
+}
+
+th {
+    background-color: #f4f4f4;
+    font-weight: bold;
 }
